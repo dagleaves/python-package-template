@@ -1,4 +1,4 @@
-# Wolt Python Package Cookiecutter
+# Python Package Cookiecutter Template
 
 A [cookiecutter](https://cookiecutter.readthedocs.io/en/latest/README.html) (project template) for rapidly developing new open source Python packages. Best practices with all the modern bells and whistles included.
 

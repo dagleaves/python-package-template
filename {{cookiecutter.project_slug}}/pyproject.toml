@@ -26,11 +26,11 @@ classifiers = [
 ]
 
 packages = [
-    { include = "{{ cookiecutter.package_name }}", from = "src" }
+    { include = "{{ cookiecutter.package_name }}"}
 ]
 
 [tool.poetry.dependencies]
-python = ">=3.7.1, <4.0"
+python = ">=3.8.1, <4.0"
 
 [tool.poetry.dev-dependencies]
 autoflake = "*"
